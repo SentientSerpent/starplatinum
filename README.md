@@ -1,0 +1,2 @@
+# starplatinum
+first repository
